@@ -1,7 +1,6 @@
 # GitResume
-Resumo das funções Git
 
-# GIT
+Resumo das funções do Git
 
 ## Estados
 
